@@ -1,6 +1,8 @@
 # aws-infra-terraform
 **Setup AWS infra using Terraform:**
 
+**Pre-requisite: Setup AWS Configaration**
+
 **Terraform Commands:**
 1. terraform init
 2. terraform plan
